@@ -16,7 +16,7 @@
         <mxCell id="9nyysBoVO_88oAFl_6c3-4" value="UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9nyysBoVO_88oAFl_6c3-5" value="材质特殊处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9nyysBoVO_88oAFl_6c3-5" value="材质特殊处理(玻璃，液体)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9nyysBoVO_88oAFl_6c3-7" value="动画" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
