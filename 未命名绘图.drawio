@@ -49,6 +49,9 @@
         <mxCell id="ldU1ifvrXavJF17s7o3O-1" value="物品管理（ESC）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="220" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ldU1ifvrXavJF17s7o3O-2" value="调试系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
